@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=KIT Mensa
+Comment=Webapp for KIT Mensa meal plans
+Type=Application
+Icon=kitmensawebapp.png
+Exec=webapp-container --store-session-cookies --webappUrlPatterns=https?://www.studentenwerk-karlsruhe.de/de/mobile/canteen/* http://www.studentenwerk-karlsruhe.de/de/mobile/canteen/ %u
+Terminal=false
+X-Ubuntu-Touch=true
+
