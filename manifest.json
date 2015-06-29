@@ -1,7 +1,7 @@
 {
     "architecture": "all",
     "description": "Webapp for KIT Mensa meal plans",
-    "framework": "ubuntu-sdk-14.10",
+    "framework": "ubuntu-sdk-15.04",
     "hooks": {
         "kitmensawebapp": {
             "apparmor": "kitmensawebapp.apparmor",
@@ -11,5 +11,5 @@
     "maintainer": "Sturm Flut <sturmflut@lieberbiber.de>",
     "name": "com.ubuntu.developer.sturmflut.kitmensawebapp",
     "title": "KIT Mensa",
-    "version": "0.3.2"
+    "version": "0.3.3"
 }
